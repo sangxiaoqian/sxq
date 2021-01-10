@@ -26,7 +26,8 @@
 - 在Settings.py填写邮箱信息，学号及密码等
 > 邮箱可填写QQ邮箱，需要授权码而不是密码，smtp地址为smtp.qq.com，端口465
 - 注册一个Github账号（步骤可百度）已注册请跳过
-- 新建仓库上传配置好的py代码，在repository页面上点击Action，选择`set up a workflow yourself` 自定义任务
+- 新建一个**私人**仓库（**注意是私人`private`仓库**）
+- 上传配置好的py代码，在repository页面上点击Action，选择`set up a workflow yourself` 自定义任务
 - 将run.yml的代码复制到文本框中，提交即可
 
 <p align="right">旭旭 2021/1/10 晚上</p>
