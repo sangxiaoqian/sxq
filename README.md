@@ -14,6 +14,10 @@
 
 - https://xxcapp.xidian.edu.cn/site/ncov/xidiandailyup
 
+疫情通网站：
+
+- https://xxcapp.xidian.edu.cn/ncov/wap/default
+
 使用方法：
 
 ### 注意：需要一定的GitHub基础
